@@ -8,6 +8,8 @@ There are additional practice questions and resources spread throughout each top
 
 # How you can run a C++ code on your respective machine:
 
+`g++ filepath -o objectFile`
+
 ## Running C++ on Linux
 
 ## Running C++ on Windows
